@@ -3,4 +3,4 @@
 My Data Science Journey
 ---
 
-[Data Science Projects ] (Projects)
+[Data Science Projects] (Projects)
