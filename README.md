@@ -3,5 +3,5 @@
 My Data Science Journey
 ---
 
-####Link
-[Data Science Projects](Projects)
+
+[Data Science Projects](projects)
