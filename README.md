@@ -6,11 +6,11 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/manisha-rehal-1a64aa170/overlay/contact-info/) about my projects!
 
 # 📚 Table of Contents
-[SQL](https://github.com/manisharehal/Portfolio/blob/master/README.md#sql)
+[SQL](#sql)
 
-[Python](https://github.com/manisharehal/Portfolio/blob/master/README.md#python)
+[Python](#python)
 
-[Tableau](https://github.com/manisharehal/Portfolio/blob/master/README.md#tableau)
+[Tableau](#tableau)
 
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
