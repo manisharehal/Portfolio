@@ -26,7 +26,7 @@ Project Name | Description | SQL Functions
 🥑Foodie-Fi |  | Advanced SQL
 🏦Data Bank |  | Advanced SQL
 🌽Data Mart  |  | Advanced SQL
-👩🏻‍⚕️ Health Analytics Case Study |  | Advanced SQL
+
 
 # Python
 Skills: Data cleaning, wrangling, visualisation, analysis Libraries: pandas, numpy, matplotlib, seaborn
