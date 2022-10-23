@@ -26,7 +26,7 @@ Project Name | Description | SQL Functions
 🥑Foodie-Fi |  | Advanced SQL
 🏦Data Bank |  | Advanced SQL
 🌽Data Mart  |  | Advanced SQL
-
+🦠 Covid-19 and the Impact on Malaysia Stock Market |I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
 
 # Python
 Skills: Data cleaning, wrangling, visualisation, analysis Libraries: pandas, numpy, matplotlib, seaborn
