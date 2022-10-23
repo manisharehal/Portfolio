@@ -6,10 +6,13 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/manisha-rehal-1a64aa170/overlay/contact-info/) about my projects!
 
 # 📚 Table of Contents
-SQL
-Python
-Tableau
-Katie's Guides
+[SQL](https://github.com/manisharehal/Portfolio/edit/master/README.md#sql)
+
+[Python](https://github.com/manisharehal/Portfolio/edit/master/README.md#Python)
+
+[Tableau](https://github.com/manisharehal/Portfolio/edit/master/README.md#Tableau)
+
+
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
 # SQL
 Level: Intermediate SQL
@@ -33,7 +36,7 @@ Project Name | Area | Description | Libraries
 🛍 Super Store Analysis | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments |pandas, matplotlib, seaborn
 🏙 Exploring the NYC Airbnb Market | EDA | Exploring Airbnb datasets and conducting a pricing analysis between Airbnb and private rentals. |pandas, numpy, datetime
 
-
+# Tableau
 Project Name | Description | Tableau Dashboard
 | :--- | :--- | :---
 🦄 Maven Unicorn Challenge |  | Link
