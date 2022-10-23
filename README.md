@@ -21,7 +21,6 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 Project Name | Description | SQL Functions
 | :--- | :--- | :---
-🛍 Maven Fuzzy Factory - Ongoing | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL
 🍜Danny's Diner | Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. | Advanced SQL
 🍕Pizza Runner |  | Advanced SQL
 🥑Foodie-Fi |  | Advanced SQL
